@@ -1,0 +1,12 @@
+{
+    "pizzaTitle" : "Beef Cheese",
+    "cheeseWord" : "Cheese",
+    "sausageWord" : "Sausage",
+    "oliveWord" : "Olive",
+    "pepperWord" : "Pepper",
+    "timeWord" : "20 min.",
+    "deliveryWord" : "Delivery",
+    "deliveryDescription" : "Meat lover, get ready to meet your pizza!",
+    "price" : "$ 11",
+    "getDeliveryWord": "ADD TO CHART"
+}

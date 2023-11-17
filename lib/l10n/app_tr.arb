@@ -1,0 +1,12 @@
+{
+  "pizzaTitle" : "Etli Peynirli",
+  "cheeseWord" : "Peynir",
+  "sausageWord" : "Sosis",
+  "oliveWord" : "Zeytin",
+  "pepperWord" : "Biber",
+  "timeWord" : "20 dak.",
+  "deliveryWord" : "Teslimat",
+  "deliveryDescription" : "Et severler, pizzanla tanışmaya hazır ol!",
+  "price" : "₺ 215",
+  "getDeliveryWord": "SEPETE EKLE"
+}
